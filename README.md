@@ -33,5 +33,7 @@ Output sample
 For each line of input, print out the maximum total score to two decimal places. For the example input above, the output should look like this:
 
 21.00
+
 83.50
+
 71.25
